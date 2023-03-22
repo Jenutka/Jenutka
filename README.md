@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jenutka
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate #
+- 👀 I’m interested Machine Learning
+- 🌱 I’m currently coding in Python, PHP, vim
+- 💞️ I’m looking to collaborate with othrer ML engineers
 - 📫 How to reach me #
 
 <!---
