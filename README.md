@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Jenutka
 - 👀 I’m interested Machine Learning
 - 🌱 I’m currently coding in Python, PHP, vim
-- 💞️ I’m looking to collaborate with other ML engineers
+- 💞️ I’m looking to collaborate with other Data Scientists
 - 📫 How to reach me honza.prokes@gmail.com
 
 <!---
